@@ -1,5 +1,8 @@
 # JavaScript Introduktion (2 lektioner)
 
+
+#Hejsa
+
 * [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
 * [YouTube: Introduction to Gitkraken](https://www.youtube.com/watch?v=ZKkMwTeAij4)
 * [YouTube: Hvordan man kloner et repository](https://youtu.be/GkYZn7JgPoM)
